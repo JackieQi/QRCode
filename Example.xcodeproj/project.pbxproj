@@ -270,6 +270,8 @@
 				TargetAttributes = {
 					4D248F061A751C3700E44E6B = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = NYVPFVKF3S;
+						DevelopmentTeamName = "Red Beacon, Inc.";
 					};
 					4D248F301A751C7800E44E6B = {
 						CreatedOnToolsVersion = 6.2;
